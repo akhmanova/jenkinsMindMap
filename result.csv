@@ -1,0 +1,5 @@
+Job,URL,Services
+temp,http://0.0.0.0:8080/job/temp/,no services
+folder1/folder_proj_1,http://0.0.0.0:8080/job/folder1/job/folder_proj_1/,no services
+vacation,http://0.0.0.0:8080/job/vacation/,"[{u'SERVICE': [u'service1', u'service2']}]"
+dir_job1,http://0.0.0.0:8080/job/dir_job1/,no services

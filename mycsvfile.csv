@@ -1,5 +1,5 @@
 FULLNAME,JOB URL,JOB PARAMS
-build-bash,http://jenkins:8080/job/build-bash/,no services
+build-bash,http://jenkins:8080/job/build-bash/,"[{u'degree': [u'1', u'2', u'3', u'4', u'5']}]"
 simple,http://jenkins:8080/job/simple/,no services
 alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,"[{u'gamma-param': [u'gamma-1', u'gamma-2', u'gamma-3']}]"
 matryoshka-1/matryoshka-2/matryoshka-3-1/matryoshka-3-job,http://jenkins:8080/job/matryoshka-1/job/matryoshka-2/job/matryoshka-3-1/job/matryoshka-3-job/,"[{u'action': [u'action-1', u'action-2']}]"

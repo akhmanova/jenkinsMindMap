@@ -1,4 +1,4 @@
 JOB,JOB URL,PARAM,SERVICE NAME,PARAMS,RESULT
 matryoshka-1/matryoshka-2/matryoshka-3-2/matryoshka-2-ogogo,http://jenkins:8080/job/matryoshka-1/job/matryoshka-2/job/matryoshka-3-2/job/matryoshka-2-ogogo/,days,bad day,"{'token': '822d03ddcd51419c09936109905123b6', u'days': u'bad day'}",OK
 build-bash,http://jenkins:8080/job/build-bash/,string,1,"{'token': '822d03ddcd51419c09936109905123b6', u'string': u'1'}",OK
-alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,gamma-param,gamma-3,"{'token': '822d03ddcd51419c09936109905123b6', u'gamma-param': u'gamma-3', u'string': u'abacaba'}",OK
+alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,gamma-param,gamma-3,"{'token': '822d03ddcd51419c09936109905123b6', u'gamma-param': u'gamma-3'}",OK

@@ -1,5 +1,5 @@
 FULLNAME,JOB URL,JOB PARAMS
 alpha,http://jenkins:8080/job/alpha/,no services
-build-bash,http://jenkins:8080/job/build-bash/,no services
+build-bash,http://jenkins:8080/job/build-bash/,"[{'default_value': u'1', 'type': u'ChoiceParameterDefinition', 'name': u'degree', 'choices': [u'1', u'2', u'3', u'4', u'5']}, {'default_value': u'default', 'type': u'StringParameterDefinition', 'name': u'string'}]"
 matryoshka-1,http://jenkins:8080/job/matryoshka-1/,no services
 simple,http://jenkins:8080/job/simple/,no services

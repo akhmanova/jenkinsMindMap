@@ -1,5 +1,1 @@
-FULLNAME,JOB URL,JOB PARAMS
-build-bash,http://jenkins:8080/job/build-bash/,"[{'default_value': u'1', 'type': u'ChoiceParameterDefinition', 'name': u'degree', 'choices': [u'1', u'2', u'3', u'4', u'5']}, {'default_value': u'default', 'type': u'StringParameterDefinition', 'name': u'string'}]"
-alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,"[{'default_value': u'gamma-1', 'type': u'ChoiceParameterDefinition', 'name': u'gamma-param', 'choices': [u'gamma-1', u'gamma-2', u'gamma-3']}]"
-matryoshka-1/matryoshka-2/matryoshka-3-1/matryoshka-3-job,http://jenkins:8080/job/matryoshka-1/job/matryoshka-2/job/matryoshka-3-1/job/matryoshka-3-job/,"[{'default_value': u'action-1', 'type': u'ChoiceParameterDefinition', 'name': u'action', 'choices': [u'action-1', u'action-2']}]"
-matryoshka-1/matryoshka-2/matryoshka-3-2/matryoshka-2-ogogo,http://jenkins:8080/job/matryoshka-1/job/matryoshka-2/job/matryoshka-3-2/job/matryoshka-2-ogogo/,"[{'default_value': u'bad day', 'type': u'ChoiceParameterDefinition', 'name': u'days', 'choices': [u'bad day', u'good day', u'sleep']}]"
+FULLNAME,JOB URL,SERVICES,ACTIONS,VERSIONS,PROFILES,OTHER

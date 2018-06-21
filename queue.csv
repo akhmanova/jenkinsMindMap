@@ -1,3 +1,3 @@
-JOB,JOB URL,SERVICE TYPE,SERVICE NAME,PARAMS
+JOB,JOB URL,SERVICE TYPE,SERVICE NAME,PARAMS,RESULT
 alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,service,alpha-beta-gamma-1,"{u'action': u'update', u'version': u'1.4.16'}"
 alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,service,alpha-beta-gamma-2,{}

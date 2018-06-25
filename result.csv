@@ -1,7 +1,7 @@
 JOB,JOB URL,BUILD NUMBER,RESULT
-alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,9,"Started by user Elina Akhmanova
+alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,11,"Started by user Elina Akhmanova
 Building in workspace /var/jenkins_home/workspace/alpha/beta/gamma
-[gamma] $ /bin/sh -xe /tmp/jenkins4261754913002688911.sh
+[gamma] $ /bin/sh -xe /tmp/jenkins2610808215906879931.sh
 + echo alpha-beta-gamma-2
 alpha-beta-gamma-2
 + echo 1.0.0
@@ -12,9 +12,9 @@ build
 none
 Finished: SUCCESS
 "
-alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,10,"Started by user Elina Akhmanova
+alpha/beta/gamma,http://jenkins:8080/job/alpha/job/beta/job/gamma/,12,"Started by user Elina Akhmanova
 Building in workspace /var/jenkins_home/workspace/alpha/beta/gamma
-[gamma] $ /bin/sh -xe /tmp/jenkins1803117227865585703.sh
+[gamma] $ /bin/sh -xe /tmp/jenkins7808337981028624196.sh
 + echo alpha-beta-gamma-1
 alpha-beta-gamma-1
 + echo 1.4.16

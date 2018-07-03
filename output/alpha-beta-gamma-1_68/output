@@ -1,0 +1,12 @@
+Started by user Elina Akhmanova
+Building in workspace /var/jenkins_home/workspace/alpha/beta/gamma
+[gamma] $ /bin/sh -xe /tmp/jenkins9165488384393127076.sh
++ echo alpha-beta-gamma-2
+alpha-beta-gamma-2
++ echo 1.0.0
+1.0.0
++ echo build
+build
++ echo none
+none
+Finished: SUCCESS

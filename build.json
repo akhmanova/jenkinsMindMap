@@ -1,0 +1,28 @@
+[
+  {
+    "service": "bad day",
+    "params": {},
+    "find":
+    [
+
+    ]
+  },
+
+  {
+    "service": "1",
+    "params": {"string": "abacaba"}
+  },
+
+  {
+    "service": "gamma-3",
+    "params":
+    {
+
+    }
+  },
+
+  {
+    "service": "NOT-EXIST-3",
+    "params": {}
+  }
+]
